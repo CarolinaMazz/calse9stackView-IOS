@@ -12,6 +12,7 @@
 		FBEDEE331E56771A007E884E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBEDEE311E56771A007E884E /* Main.storyboard */; };
 		FBEDEE351E56771A007E884E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBEDEE341E56771A007E884E /* Assets.xcassets */; };
 		FBEDEE381E56771A007E884E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBEDEE361E56771A007E884E /* LaunchScreen.storyboard */; };
+		FBEDEE401E5690E8007E884E /* ViewControllerAlertas.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBEDEE3F1E5690E8007E884E /* ViewControllerAlertas.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FBEDEE341E56771A007E884E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FBEDEE371E56771A007E884E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FBEDEE391E56771A007E884E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FBEDEE3F1E5690E8007E884E /* ViewControllerAlertas.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewControllerAlertas.swift; path = ../ViewControllerAlertas.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				FBEDEE341E56771A007E884E /* Assets.xcassets */,
 				FBEDEE361E56771A007E884E /* LaunchScreen.storyboard */,
 				FBEDEE391E56771A007E884E /* Info.plist */,
+				FBEDEE3F1E5690E8007E884E /* ViewControllerAlertas.swift */,
 			);
 			path = "calse 9 stackView IOS";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FBEDEE301E56771A007E884E /* ViewController.swift in Sources */,
+				FBEDEE401E5690E8007E884E /* ViewControllerAlertas.swift in Sources */,
 				FBEDEE2E1E56771A007E884E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
